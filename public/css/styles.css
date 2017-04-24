@@ -1,0 +1,30 @@
+.header h1{
+  text-align: center;
+  color: white;
+}
+.header {
+  background-color: #634f1d;
+}
+body {
+  background-color: #e5d8b7;
+}
+.right {
+  float: right;
+}
+.header p {
+  color: white;
+  text-align: center;
+}
+
+p {
+  padding: 2%;
+  font-weight: bold;
+}
+
+.btn {
+  color: white;
+  background-color: #634f1d;
+}
+.form-control {
+  width: 35%;
+}
